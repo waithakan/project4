@@ -1,0 +1,98 @@
+header {
+    background-image: url(/images/name.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+.ul-1 {
+    display: flex;
+    list-style: none;
+    justify-content:space-evenly;
+    color: green;
+    font-size: x-large;
+    margin-left: 600px;
+    padding-top: 20px;
+}
+#li-1 {
+    border: solid green 4px;
+    padding: 8px 25px 8px 20px; 
+    border-radius: 8px;
+}
+#li-1:hover {
+    background-color: white;
+}
+#li-2 {
+    border: solid green 4px;
+    padding: 8px 25px 8px 20px;
+    border-radius: 8px;
+}
+#li-2:hover {
+    background-color: white;
+}
+#li-3 {
+    border: solid green 4px;
+    padding: 8px 25px 8px 20px;
+    border-radius: 8px;
+}
+#li-3:hover {
+    background-color: white;
+}
+#li-4 {
+    border: solid green 4px;
+    padding: 8px 25px 8px 20px;
+    border-radius: 8px;
+}
+#li-4:hover {
+    background-color: white;
+}
+.div-ctn {
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 300px;
+
+}
+.main{
+    background-color: white;
+    text-align: center;
+    margin: auto;
+}
+#hd-1st {
+    text-align: center;
+    color: red;
+}
+#cocktail-1 {
+    width: 500px;
+}
+#cocktail-2 {
+    width: 350px;
+}
+.fld-1 {
+    border: solid black 3px;
+    display: flex;
+    width: 1000px;
+    margin:auto;
+    border-radius: 5px;
+    padding: 40px 20px 40px 20px;
+    margin-bottom: 30px;
+}
+#shake {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#btn-1 {
+    background: linear-gradient(to left, yellow,rgb(165, 165, 21) 100%);
+    padding: 10px;
+    border-radius: 5px;
+}
+.fld-2 {
+    border: solid black 3px;
+    display: flex;
+    width: 1000px;
+    margin:auto;
+    border-radius: 5px;
+    padding: 40px 20px 40px 20px;
+    margin-bottom: 30px;
+
+}
