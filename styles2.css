@@ -1,20 +1,23 @@
 header {
-    background-image:  url(/images/cocktil.jpg);
+    background-image:  url(/images/WhatsApp\ Image\ 2022-10-18\ at\ 3.52.04\ PM.jpeg);
     background-size: auto;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 1500px 1800px;
-
+    background-size: 1500px 2000px;
+    height: 550px;
 }
 a {
     text-decoration: none;
+    color: whitesmoke;
 }
+
+
 .ul-1 {
     display: flex;
     list-style: none;
     justify-content:space-evenly;
-    color: whitesmoke;
+    color: white;
     font-size: x-large;
     margin-left: 600px;
     padding-top: 20px;
@@ -58,68 +61,44 @@ a {
 .div-ctn {
     color: whitesmoke;
     text-align: center;
-    padding-top: 200px;
+    padding-top: 100px;
     padding-bottom: 100px;
 
 }
-.main{
-    background-color: white;
+.body-main {
     text-align: center;
-    margin: auto;
-}
-#hd-1st {
-    text-align: center;
-    color: red;
-}
-#cocktail-1 {
-    width: 500px;
-}
-#cocktail-2 {
-    width: 350px;
-}
-.fld-1 {
-    border: solid black 3px;
-    display: flex;
-    width: 1000px;
-    margin:auto;
-    border-radius: 5px;
-    padding: 40px 20px 40px 20px;
-    margin-bottom: 30px;
-}
-#shake {
-    padding-right: 10px;
-    padding-left: 10px;
 }
 #btn-1 {
-    background: linear-gradient(to left, yellow,rgb(165, 165, 21) 100%);
-    padding: 10px;
-    border-radius: 5px;
-}
-.fld-2 {
-    border: solid black 3px;
-    display: flex;
-    width: 1000px;
-    margin:auto;
-    border-radius: 5px;
-    padding: 40px 20px 40px 20px;
-    margin-bottom: 30px;
+    padding: 10px 20px 10px 20px;
+    background-color: yellow;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
 
 }
-.sect-last {
-    text-align: center;
-    color: whitesmoke;
-    background-image: url(/images/WhatsApp\ Image\ 2022-10-18\ at\ 3.52.04\ PM.jpeg);
-    background-size: cover;
+.field-1st {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
 }
-.last {
-    padding-top: 200px;
-    padding-bottom: 200px;
+#style-fld {
+    padding:0px;
+    width: 300px;
+    border-radius: 3px;
+    background-color: black;
+    border: solid 0px ;
 }
-#lst-p {
-    padding-left: 230px;
-    padding-right: 230px;
+#img-fld1 {
+    height: 50vh;
 }
-footer {
+#ft1 {
+    background-color: black;
+    padding: 0%;
+    margin-top: 0;
+    color: white;
+}
+.lst-ft {
     background-image: url(/images/name.jpeg);
     height: 500px;
     background-size: 1500px 500px;
